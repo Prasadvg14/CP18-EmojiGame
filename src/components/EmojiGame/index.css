@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ul {
+  width: 60vw;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 10vh;
+  margin-left: 30px;
+  padding: 0%;
+  padding-left: 20px;
+}

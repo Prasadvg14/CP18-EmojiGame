@@ -1,0 +1,28 @@
+/* Write your code here. */
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffffff33;
+  height: 10vh;
+  width: 100vw;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  justify-self: flex-start;
+}
+
+.score1 {
+  width: 15vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffff;
+}
+
+.p {
+  font-size: 16px;
+  font-weight: 500;
+}
